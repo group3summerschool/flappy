@@ -12,7 +12,7 @@
     "bird"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/hyspace/flappy",
+  "homepage": "https://github.com/bryanlux/flappy",
   "private": true,
   "ignore": [
     "**/.*",
